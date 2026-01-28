@@ -1,0 +1,46 @@
+[
+    {
+        "longitude": -122.05,
+        "latitude": 37.37,
+        "housing_median_age": 27.0,
+        "total_rooms": 3885.0,
+        "total_bedrooms": 661.0,
+        "population": 1537.0,
+        "households": 606.0,
+        "median_income": 6.6085,
+        "median_house_value": 344700.0
+    },
+    {
+        "longitude": -118.3,
+        "latitude": 34.26,
+        "housing_median_age": 43.0,
+        "total_rooms": 1510.0,
+        "total_bedrooms": 310.0,
+        "population": 809.0,
+        "households": 277.0,
+        "median_income": 3.599,
+        "median_house_value": 176500.0
+    },
+    {
+        "longitude": -117.81,
+        "latitude": 33.78,
+        "housing_median_age": 27.0,
+        "total_rooms": 3589.0,
+        "total_bedrooms": 507.0,
+        "population": 1484.0,
+        "households": 495.0,
+        "median_income": 5.7934,
+        "median_house_value": 270500.0
+    },
+    {
+        "longitude": -118.36,
+        "latitude": 33.82,
+        "housing_median_age": 28.0,
+        "total_rooms": 67.0,
+        "total_bedrooms": 15.0,
+        "population": 49.0,
+        "households": 11.0,
+        "median_income": 6.1359,
+        "median_house_value": 330000.0
+    }
+]
